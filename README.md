@@ -1,7 +1,7 @@
 # SCT_SD_02
 A simple and interactive Number Guessing Game built using C++, created as part of my Software Development Internship at SkillCraft Technology.
 
---
+---
 
 ## Features
 
@@ -12,3 +12,5 @@ A simple and interactive Number Guessing Game built using C++, created as part o
   - "Too high! Try again."
   - "Too low! Try again."
 - Displays total attempts when the number is guessed correctly.
+
+  ---
