@@ -15,4 +15,9 @@ A simple and interactive Number Guessing Game built using C++, created as part o
 
   ---
 
-  ## Technologies Used
+  ## 🛠️Technologies Used
+
+  - Language: C++
+  - IDE: VS Code
+
+    ---
