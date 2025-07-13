@@ -3,7 +3,7 @@ A simple and interactive Number Guessing Game built using C++, created as part o
 
 ---
 
-## Features
+## 🚀Features
 
 - Generates a random number between 1 and 100.
 - Prompts the user for input.
@@ -14,3 +14,5 @@ A simple and interactive Number Guessing Game built using C++, created as part o
 - Displays total attempts when the number is guessed correctly.
 
   ---
+
+  ## Technologies Used
