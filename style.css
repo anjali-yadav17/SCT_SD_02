@@ -1,0 +1,73 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  background-size: 400% 400%;
+  animation: gradientBG 15s ease infinite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  margin: 0;
+}
+@keyframes gradientBG {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
+}
+.game-card {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 40px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.3);
+  width: 350px;
+  animation: slideUp 1s ease-in-out;
+}
+input {
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+  width: 80%;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+button {
+  padding: 10px 25px;
+  font-size: 16px;
+  background-color: #6c5ce7;
+  color: white;
+  border: none;
+  margin-top: 15px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background 0.3s, transform 0.2s;
+}
+button:hover {
+  background-color: #341f97;
+  transform: scale(1.05);
+}
+#result {
+  font-weight: bold;
+  margin-top: 20px;
+  color: #2d3436;
+}
+footer {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #dfe6e9;
+}
+.glow {
+  color: #6c5ce7;
+  text-shadow: 0 0 10px #a29bfe;
+}
+@keyframes slideUp {
+  from {
+    transform: translateY(40px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
