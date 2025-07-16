@@ -6,7 +6,7 @@
 ## 🌐 About the Project
 
 The Number Guessing Game challenges users to guess a randomly generated number between 1 and 100.  
-The app provides **real-time feedback**, an elegant user interface, and a **“Play Again”** feature for replayability — all packed into a responsive browser experience.
+The app provides **real-time feedback**, an elegant user interface, and a **“Play Again”** feature for replayability - all packed into a responsive browser experience.
 
 ---
 
