@@ -21,6 +21,12 @@ The app provides **real-time feedback**, an elegant user interface, and a **“P
 
   ---
 
+  ## 📸 Screenshot
+
+  <img width="1912" height="967" alt="image" src="https://github.com/user-attachments/assets/2a1193cc-6fea-4a5e-bb66-a2295236b29f" />
+
+  ---
+
   ## 🛠️ Technologies Used
 
 - HTML5
