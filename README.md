@@ -31,7 +31,7 @@ The app provides **real-time feedback**, an elegant user interface, and a **“P
   - Attempts are counted and shown below
   - Once correct 🎉, click "Play Again" to restart
 
-
+  ---
 
   ## 📸 Screenshot
 
