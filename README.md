@@ -26,8 +26,8 @@ The app provides **real-time feedback**, an elegant user interface, and a **“P
 - Enter a number between 1 and 100
 - Click "Submit Guess" or press Enter
 - Get feedback:
-    📉 Too low! – Try a higher number
-    📈 Too high! – Try a lower number
+  - 📉 Too low! – Try a higher number
+  - 📈 Too high! – Try a lower number
 - Attempts are counted and shown below
 - Once correct 🎉, click "Play Again" to restart
 
