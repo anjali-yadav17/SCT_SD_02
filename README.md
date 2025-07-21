@@ -45,4 +45,4 @@ The app provides **real-time feedback**, an elegant user interface, and a **“P
 - CSS3
 - Vanilla JavaScript
 
- ---
+
