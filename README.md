@@ -21,25 +21,25 @@ The app provides **real-time feedback**, an elegant user interface, and a **“P
 
   ---
 
-  ## 🎮 How to Play
+## 🎮 How to Play
 
-  - Enter a number between 1 and 100
-  - Click "Submit Guess" or press Enter
-  - Get feedback:
-      📉 Too low! – Try a higher number
-      📈 Too high! – Try a lower number
-  - Attempts are counted and shown below
-  - Once correct 🎉, click "Play Again" to restart
+- Enter a number between 1 and 100
+- Click "Submit Guess" or press Enter
+- Get feedback:
+    📉 Too low! – Try a higher number
+    📈 Too high! – Try a lower number
+- Attempts are counted and shown below
+- Once correct 🎉, click "Play Again" to restart
 
-  ---
+---
 
-  ## 📸 Screenshot
+## 📸 Screenshot
 
-  <img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/47a35fb6-f6e6-495f-b2b5-8e58cf6888ac" />
+<img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/47a35fb6-f6e6-495f-b2b5-8e58cf6888ac" />
 
-  ---
+---
 
-  ## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
