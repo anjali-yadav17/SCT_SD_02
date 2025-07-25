@@ -35,7 +35,9 @@ This project provides **real-time feedback**, an elegant user interface, and a *
 
 ## 📸 Screenshot
 
-![Number Hunt Screenshot](assets/Screenshot%202025-07-25%20120505.png)
+<p align="center">
+  <img src="assets/Screenshot%202025-07-25%20120505.png" alt="Number Hunt UI" width="800"/>
+</p>
 
 ---
 
