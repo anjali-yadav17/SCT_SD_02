@@ -35,7 +35,7 @@ This project provides **real-time feedback**, an elegant user interface, and a *
 
 ## 📸 Screenshot
 
-<img width="1918" height="965" alt="Number Guessing Game UI" src="https://raw.githubusercontent.com/anjali-yadav17/SCT_SD_02/main/screenshot-new.png" />
+<img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/47a35fb6-f6e6-495f-b2b5-8e58cf6888ac"
 
 ---
 
