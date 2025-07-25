@@ -35,7 +35,7 @@ This project provides **real-time feedback**, an elegant user interface, and a *
 
 ## 📸 Screenshot
 
-![Number Hunt Screenshot](https://github.com/user-attachments/assets/47a35fb6-f6e6-495f-b2b5-8e58cf6888ac)
+![Number Hunt Screenshot](assets/Screenshot%202025-07-25%20120505.png)
 
 ---
 
